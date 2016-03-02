@@ -67,9 +67,9 @@ WSGI_APPLICATION = 'restful.wsgi.application'
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'mininas',
+    'NAME': 'mysite',
     'USER':'root',
-    'PASSWORD':'wenshang',
+    'PASSWORD':'123456',
     'HOST':'',
     'PORT':'3306',
     }
